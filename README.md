@@ -17,3 +17,8 @@ git checkout [branch name]
 You will then have a copy of the folder and can work in this folder to produce any code to help you to learn and complete that particular project.  
   
 When you have completed the project you should have a fully working program to upload to your own github account.  
+
+## Learning projects (branch names):
+
+Image-with-Hotspots  git checkout Image-with-Hotspots  
+
