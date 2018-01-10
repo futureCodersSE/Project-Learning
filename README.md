@@ -20,5 +20,5 @@ When you have completed the project you should have a fully working program to u
 
 ## Learning projects (branch names):
 
-Image-with-Hotspots  git checkout Image-with-Hotspots  
+<i>Image-with-Hotspots</i>  git checkout Image-with-Hotspots  
 
