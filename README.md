@@ -4,7 +4,7 @@ A set of resources for learning to code through small, focused projects.
 # To get started
 Clone this repository into a folder on your drive.  
 
-https://github.com/futureCodersSE/Project-Learning.git  
+git clone https://github.com/futureCodersSE/Project-Learning.git  
 
 cd into the Project-Learning directory.  
 
