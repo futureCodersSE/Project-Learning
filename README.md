@@ -21,4 +21,5 @@ When you have completed the project you should have a fully working program to u
 ## Learning projects (branch names):
 
 <i>Image-with-Hotspots</i>  git checkout Image-with-Hotspots  
+<i>React-Picture-Board</i>  git checkout React-Picture-Board  
 
