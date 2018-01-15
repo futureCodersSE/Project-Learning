@@ -20,6 +20,17 @@ When you have completed the project you should have a fully working program to u
 
 ## Learning projects (branch names):
 
-<i>Image-with-Hotspots</i>  git checkout Image-with-Hotspots  
-<i>React-Picture-Board</i>  git checkout React-Picture-Board  
+Before you checkout a project make sure you are in the Project Learning folder and that you have copied out any files you have finished with.  
+
+  git checkout master
+  git pull origin master
+  
+Then checkout the required project from the list below:
+
+<i>Splash-Screen</i>  git checkout Splash-Screen  
+<i>Image-with-Hotspots</i>  git checkout Image-with-Hotspots   
+<i>Modal-with-Video</i>  git checkout Modal-with-Video
+<i>Javascript-Picture=Board</i>  git checkout Javascript-Picture-Board  
+<i>React-Picture-Board</i>  git checkout React-Picture-Board  #
+<i>Java-Conversation-App</i>  git checkout Java-Conversation-App
 
