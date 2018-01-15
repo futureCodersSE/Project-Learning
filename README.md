@@ -29,8 +29,8 @@ Then checkout the required project from the list below:
 
 <i>Splash-Screen</i>  git checkout Splash-Screen  
 <i>Image-with-Hotspots</i>  git checkout Image-with-Hotspots   
-<i>Modal-with-Video</i>  git checkout Modal-with-Video
+<i>Modal-with-Video</i>  git checkout Modal-with-Video  
 <i>Javascript-Picture=Board</i>  git checkout Javascript-Picture-Board  
-<i>React-Picture-Board</i>  git checkout React-Picture-Board  #
-<i>Java-Conversation-App</i>  git checkout Java-Conversation-App
+<i>React-Picture-Board</i>  git checkout React-Picture-Board   
+<i>Java-Conversation-App</i>  git checkout Java-Conversation-App  
 
